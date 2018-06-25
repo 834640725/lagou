@@ -1,0 +1,74 @@
+@r:37.5 * 2rem;
+
+//导航背景图
+.bgurl(@url){
+  background-image: url("../images/@{url}.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+// 选中的active
+.bgactive(@url){
+  background-image: url("../images/@{url}.png");
+    & + span{
+      color: #419186;
+    }
+}
+
+.lg-navgtor {
+  height: 98/@r;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-top: solid 1/@r #aeaeae;
+  display: flex;
+  li {
+    float: left;
+    flex-grow: 1;
+    text-align: center;
+    font-size: 12/@r;
+    padding-top: 16/@r;
+
+    .nav-index {
+      width: 44/@r;
+      height: 44/@r;
+      display: block;
+      margin: 0 auto;
+      .bgurl(index-icon)
+    }
+
+    .lg-index {
+      &.active {
+        .bgactive(index-icon-green)
+      }
+    }
+
+    .nav-message {
+      .bgurl(nav-message);
+
+      &.active {
+        .bgactive(nav-message-green)
+      }
+    }
+
+    .speech {
+      .bgurl(nav-yanzhi);
+      &.active {
+        .bgactive(nav-yanzhi-green)
+      }
+    }
+
+    .user {
+      .bgurl(nav-user);
+      &.active {
+        .bgactive(nav-user-green)
+      }
+    }
+
+
+    span {
+      display: block;
+    }
+  }
+}

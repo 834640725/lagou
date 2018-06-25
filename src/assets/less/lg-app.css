@@ -1,0 +1,67 @@
+.lg-navgtor {
+  height: 1.30666667rem;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-top: solid 0.01333333rem #aeaeae;
+  display: flex;
+}
+.lg-navgtor li {
+  float: left;
+  flex-grow: 1;
+  text-align: center;
+  font-size: 0.16rem;
+  padding-top: 0.21333333rem;
+}
+.lg-navgtor li .nav-index {
+  width: 0.58666667rem;
+  height: 0.58666667rem;
+  display: block;
+  margin: 0 auto;
+  background-image: url("../images/index-icon.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.lg-navgtor li .lg-index.active {
+  background-image: url("../images/index-icon-green.png");
+}
+.lg-navgtor li .lg-index.active + span {
+  color: #419186;
+}
+.lg-navgtor li .nav-message {
+  background-image: url("../images/nav-message.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.lg-navgtor li .nav-message.active {
+  background-image: url("../images/nav-message-green.png");
+}
+.lg-navgtor li .nav-message.active + span {
+  color: #419186;
+}
+.lg-navgtor li .speech {
+  background-image: url("../images/nav-yanzhi.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.lg-navgtor li .speech.active {
+  background-image: url("../images/nav-yanzhi-green.png");
+}
+.lg-navgtor li .speech.active + span {
+  color: #419186;
+}
+.lg-navgtor li .user {
+  background-image: url("../images/nav-user.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.lg-navgtor li .user.active {
+  background-image: url("../images/nav-user-green.png");
+}
+.lg-navgtor li .user.active + span {
+  color: #419186;
+}
+.lg-navgtor li span {
+  display: block;
+}

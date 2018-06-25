@@ -16,359 +16,360 @@
       </ul>
    </nav>
 
-   <div class="lg-content">
-
-       <div class="content">
-         <div class="jobname-salary">
-           <span class="lg-job-name">Web开发工程师</span>
-           <span class="lg-job-salary">12-20K</span>
-         </div>
-         <div class="job-type">
-           <div class="type-left">
-             <span>北京</span>
-             <span>酒仙桥</span>
-             <span>3-5年</span>
-             <span>本科</span>
+   <section class="warpper">
+       <div class="lg-content">
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
            </div>
-           <div class="type-time">
-             12:55
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
            </div>
          </div>
-         <!--工作标签-->
-         <div class="job-tag">
-           <span>教育</span>
-           <span>web</span>
-           <span>web前端</span>
-           <span>js</span>
-           <span>html5</span>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
          </div>
 
-         <!--公司logo 70*70-->
-         <div class="company-info">
-           <img src="../assets/logo/1.png" alt="" class="company-logo">
-           <div class="company-title">
-             <p class="company-name">达飞云贷</p>
-             <p class="company-type">
-               <span>不需要融资</span>
-               <span>15-50人</span>
-               <span>教育,移动互联网</span>
-             </p>
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
+           </div>
+         </div>
+
+         <div class="content">
+           <div class="jobname-salary">
+             <span class="lg-job-name">Web开发工程师</span>
+             <span class="lg-job-salary">12-20K</span>
+           </div>
+           <div class="job-type">
+             <div class="type-left">
+               <span>北京</span>
+               <span>酒仙桥</span>
+               <span>3-5年</span>
+               <span>本科</span>
+             </div>
+             <div class="type-time">
+               12:55
+             </div>
+           </div>
+           <!--工作标签-->
+           <div class="job-tag">
+             <span>教育</span>
+             <span>web</span>
+             <span>web前端</span>
+             <span>js</span>
+             <span>html5</span>
+           </div>
+
+           <!--公司logo 70*70-->
+           <div class="company-info">
+             <img src="../assets/logo/1.png" alt="" class="company-logo">
+             <div class="company-title">
+               <p class="company-name">达飞云贷</p>
+               <p class="company-type">
+                 <span>不需要融资</span>
+                 <span>15-50人</span>
+                 <span>教育,移动互联网</span>
+               </p>
+             </div>
            </div>
          </div>
        </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-
-     <div class="content">
-       <div class="jobname-salary">
-         <span class="lg-job-name">Web开发工程师</span>
-         <span class="lg-job-salary">12-20K</span>
-       </div>
-       <div class="job-type">
-         <div class="type-left">
-           <span>北京</span>
-           <span>酒仙桥</span>
-           <span>3-5年</span>
-           <span>本科</span>
-         </div>
-         <div class="type-time">
-           12:55
-         </div>
-       </div>
-       <!--工作标签-->
-       <div class="job-tag">
-         <span>教育</span>
-         <span>web</span>
-         <span>web前端</span>
-         <span>js</span>
-         <span>html5</span>
-       </div>
-
-       <!--公司logo 70*70-->
-       <div class="company-info">
-         <img src="../assets/logo/1.png" alt="" class="company-logo">
-         <div class="company-title">
-           <p class="company-name">达飞云贷</p>
-           <p class="company-type">
-             <span>不需要融资</span>
-             <span>15-50人</span>
-             <span>教育,移动互联网</span>
-           </p>
-         </div>
-       </div>
-     </div>
-   </div>
+   </section>
  </div>
 </template>
 

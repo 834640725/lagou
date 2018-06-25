@@ -6,12 +6,20 @@
   clear: both;
   overflow: hidden;
 }
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
 
 .head-content {
   width: 100%;
   height: 86/@r;
   background: #fff;
-  border-bottom: solid 1px #e9e9e9;
+  border-bottom: solid 1/@r #e9e9e9;
+  position: absolute;
+  top: 0;
+  left: 0;
 
   .search {
     width: 622/@r;
@@ -38,9 +46,12 @@
 }
 
 .lg-nav {
-  padding: 40/@r 28/@r;
+  padding: 40/@r 28/@r 10/@r;
   width: 100%;
-  border-bottom: solid 1px #e9e9e9;
+  border-bottom: solid 1/@r #e9e9e9;
+  position: absolute;
+  left: 0;
+  top: 87/@r;
 
   .cancel {
      width: 56/@r;
@@ -78,104 +89,115 @@
  }
 }
 
-.lg-content {
-  background-color: #f8f9fb;
+.warpper {
+  position: absolute;
+  left: 0;
+  top: 206/@r;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  width: 100%;
+  margin-bottom: 99/@r;
 
-  .content {
-    padding: 17/@r 30/@r 0;
-    margin-bottom: 18/@r;
-    background-color: #ffffff;
+  .lg-content {
+    background-color: #f8f9fb;
 
-    .jobname-salary {
-      width: 100%;
-      height: 70/@r;
-      line-height: 70/@r;
+    .content {
+      padding: 17/@r 30/@r 0;
+      margin-bottom: 18/@r;
+      background-color: #ffffff;
 
-      .lg-job-name {
-        font-weight: 700;
-        float: left;
-      }
-
-      .lg-job-salary {
-        font-weight: 700;
-        float: right;
-        color: #fb775e;
-      }
-    }
-
-    .job-type {
-      font-size: 22/@r;
-      overflow: hidden;
-      .type-left {
-        float: left;
-        span {
-          &:after {
-            content: "|";
-            margin-left: 9/@r;
-            width: 2/@r;
-            color: #c8c8c8;
-          }
-        }
-        span:last-child {
-          &::after {
-            content: "";
-          }
-        }
-      }
-      .type-time {
-        float: right;
-      }
-    }
-
-    //工作标签
-    .job-tag {
-      margin-top: 28/@r;
-      margin-bottom: 40/@r;
-      font-size: 22/@r;
-      color: #959698;
-
-      span {
-        padding: 8/@r 12/@r;
-        background: #f2f6f9;
-        border-radius: 4px;
-      }
-    }
-
-    .company-info {
-      overflow: hidden;
-      .company-logo{
-        width: 70/@r;
+      .jobname-salary {
+        width: 100%;
         height: 70/@r;
-        border-radius: 4px;
-        float: left;
-        vertical-align: middle;
-      }
+        line-height: 70/@r;
 
-      .company-title {
-        float: left;
-        margin-left: 20/@r;
-        .company-name {
-          font-size: 26/@r;
-          color: #313131;
+        .lg-job-name {
+          font-weight: 700;
+          float: left;
         }
 
-        .company-type {
-          font-size: 22/@r;
-          color: #979797;
-          margin-top: 4/@r;
+        .lg-job-salary {
+          font-weight: 700;
+          float: right;
+          color: #fb775e;
+        }
+      }
 
+      .job-type {
+        font-size: 22/@r;
+        overflow: hidden;
+        .type-left {
+          float: left;
           span {
-            &::after {
+            &:after {
               content: "|";
               margin-left: 9/@r;
               width: 2/@r;
               color: #c8c8c8;
             }
           }
-
           span:last-child {
             &::after {
-              content: " ";
+              content: "";
+            }
+          }
+        }
+        .type-time {
+          float: right;
+        }
+      }
+
+      //工作标签
+      .job-tag {
+        margin-top: 28/@r;
+        margin-bottom: 40/@r;
+        font-size: 22/@r;
+        color: #959698;
+
+        span {
+          padding: 8/@r 12/@r;
+          background: #f2f6f9;
+          border-radius: 4px;
+        }
+      }
+
+      .company-info {
+        overflow: hidden;
+        .company-logo{
+          width: 70/@r;
+          height: 70/@r;
+          border-radius: 4px;
+          float: left;
+          vertical-align: middle;
+        }
+
+        .company-title {
+          float: left;
+          margin-left: 20/@r;
+          .company-name {
+            font-size: 26/@r;
+            color: #313131;
+          }
+
+          .company-type {
+            font-size: 22/@r;
+            color: #979797;
+            margin-top: 4/@r;
+
+            span {
+              &::after {
+                content: "|";
+                margin-left: 9/@r;
+                width: 2/@r;
+                color: #c8c8c8;
+              }
+            }
+
+            span:last-child {
+              &::after {
+                content: " ";
+              }
             }
           }
         }
@@ -183,5 +205,7 @@
     }
   }
 }
+
+
 
 
