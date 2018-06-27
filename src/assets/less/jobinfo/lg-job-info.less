@@ -1,3 +1,193 @@
 @r:37.5 * 2rem;
 
 // 86 / @r
+
+// [ web ] 样式复用
+.state-span {
+  font-size: 23/@r;
+  color: #58595d;
+  padding: 10/@r 15/@r;
+  border-radius: 12/@r;
+  background: #f4f5f9;
+  margin: 4/@r;
+}
+
+.job-content {
+
+
+  .job-header {
+    background: #ffffff;
+    height: 86/@r;
+    line-height: 86/@r;
+    color: #000;
+    font-weight: 700;
+  }
+
+  // 工作详细描述
+  .job-info-show {
+    width: 100%;
+    height: 412/@r;
+    position: absolute;
+    left: 0;
+    top: 86/@r;
+    background: #fafafa;
+
+    .job-cont {
+      width: 688/@r;
+      height: 373/@r;
+      border: solid 1/@r #eaeaea;
+      margin: 17/@r auto;
+      box-shadow: 0px 1px .3px #eaeaea;
+      padding: 39/@r 29/@r 35/@r 31/@r;
+      box-sizing: border-box;
+      background: #ffffff;
+
+      .job-text {
+        display: inline-block;
+        .job-name {
+          font-size: 39/@r;
+        }
+        //要求
+        .claim {
+            color: #404040;
+            font-size: 23/@r;
+            line-height: 44/@r;
+            margin-top: 33/@r;
+        }
+        // 薪水
+        .wages {
+          line-height: 46/@r;
+          font-size: 23/@r;
+          font-weight: 700;
+          color: #d37156;
+        }
+      }
+
+      .job-image {
+        float: right;
+        width: 98/@r;
+        height: 98/@r;
+        border-radius: 6/@r;
+        border: solid 1/@r #c3c3c3;
+        padding: 14/@r;
+
+        img {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    }
+
+    .address {
+      width: 100%;
+      margin-top: 25/@r;
+      border-top: solid 1/@r #e9e9e9;
+      padding-top: 26/@r;
+
+      .add-q {
+        line-height: 50/@r;
+        font-size: 28/@r;
+        color: #2d2d2d;
+
+        &::before {
+          content: "";
+          display: inline-block;
+          clear: both;
+          width: 25/@r;
+          height: 29/@r;
+          background-image: url("../../images/add-icon.png");
+          background-size: 100% 100%;
+          margin: 4/@r 8/@r 0 2/@r;
+        }
+      }
+
+      .add-i {
+        font-size: 22/@r;
+        color: #8e8e8e;
+      }
+    }
+
+    .job-warpper {
+      margin-top: 68/@r;
+      padding: 0 42/@r;
+      width: 100%;
+
+      .job-hr-name {
+        font-size: 32/@r;
+        padding-right: 42/@r;
+        background: #ffffff;
+        font-weight: normal;
+      }
+
+      .job-header-image {
+        margin-top: 50/@r;
+
+        img {
+          width: 89/@r;
+          height: 89/@r;
+          border-radius: 50%;
+          overflow: hidden;
+          float: left;
+          margin-right: 22/@r;
+        }
+
+        .allege {
+          .leader {
+            color: #343434;
+            font-size: 26/@r;
+          }
+
+          .today-time {
+            font-size: 22/@r;
+            color: #888888;
+            background: #fdfdfd;
+            margin-left: 18/@r;
+          }
+
+          .state {
+             margin-top: 21/@r;
+            span {
+              .state-span
+            }
+          }
+        }
+      }
+    }
+
+
+    //职位描述
+    .job-description {
+      margin-top: 93/@r;
+      padding: 0 42/@r;
+      width: 100%;
+
+      h2 {
+        font-size: 32/@r;
+        padding-right: 42/@r;
+        background: #ffffff;
+        font-weight: normal;
+      }
+
+      .des-list {
+        margin: 40/@r 0;
+
+        span {
+          .state-span
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+

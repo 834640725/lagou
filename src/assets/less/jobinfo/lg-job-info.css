@@ -1,0 +1,153 @@
+.state-span {
+  font-size: 0.30666667rem;
+  color: #58595d;
+  padding: 0.13333333rem 0.2rem;
+  border-radius: 0.16rem;
+  background: #f4f5f9;
+  margin: 0.05333333rem;
+}
+.job-content .job-header {
+  background: #ffffff;
+  height: 1.14666667rem;
+  line-height: 1.14666667rem;
+  color: #000;
+  font-weight: 700;
+}
+.job-content .job-info-show {
+  width: 100%;
+  height: 5.49333333rem;
+  position: absolute;
+  left: 0;
+  top: 1.14666667rem;
+  background: #fafafa;
+}
+.job-content .job-info-show .job-cont {
+  width: 9.17333333rem;
+  height: 4.97333333rem;
+  border: solid 0.01333333rem #eaeaea;
+  margin: 0.22666667rem auto;
+  box-shadow: 0px 1px .3px #eaeaea;
+  padding: 0.52rem 0.38666667rem 0.46666667rem 0.41333333rem;
+  box-sizing: border-box;
+  background: #ffffff;
+}
+.job-content .job-info-show .job-cont .job-text {
+  display: inline-block;
+}
+.job-content .job-info-show .job-cont .job-text .job-name {
+  font-size: 0.52rem;
+}
+.job-content .job-info-show .job-cont .job-text .claim {
+  color: #404040;
+  font-size: 0.30666667rem;
+  line-height: 0.58666667rem;
+  margin-top: 0.44rem;
+}
+.job-content .job-info-show .job-cont .job-text .wages {
+  line-height: 0.61333333rem;
+  font-size: 0.30666667rem;
+  font-weight: 700;
+  color: #d37156;
+}
+.job-content .job-info-show .job-cont .job-image {
+  float: right;
+  width: 1.30666667rem;
+  height: 1.30666667rem;
+  border-radius: 0.08rem;
+  border: solid 0.01333333rem #c3c3c3;
+  padding: 0.18666667rem;
+}
+.job-content .job-info-show .job-cont .job-image img {
+  width: 100%;
+  height: 100%;
+}
+.job-content .job-info-show .address {
+  width: 100%;
+  margin-top: 0.33333333rem;
+  border-top: solid 0.01333333rem #e9e9e9;
+  padding-top: 0.34666667rem;
+}
+.job-content .job-info-show .address .add-q {
+  line-height: 0.66666667rem;
+  font-size: 0.37333333rem;
+  color: #2d2d2d;
+}
+.job-content .job-info-show .address .add-q::before {
+  content: "";
+  display: inline-block;
+  clear: both;
+  width: 0.33333333rem;
+  height: 0.38666667rem;
+  background-image: url("../../images/add-icon.png");
+  background-size: 100% 100%;
+  margin: 0.05333333rem 0.10666667rem 0 0.02666667rem;
+}
+.job-content .job-info-show .address .add-i {
+  font-size: 0.29333333rem;
+  color: #8e8e8e;
+}
+.job-content .job-info-show .job-warpper {
+  margin-top: 0.90666667rem;
+  padding: 0 0.56rem;
+  width: 100%;
+}
+.job-content .job-info-show .job-warpper .job-hr-name {
+  font-size: 0.42666667rem;
+  padding-right: 0.56rem;
+  background: #ffffff;
+  font-weight: normal;
+}
+.job-content .job-info-show .job-warpper .job-header-image {
+  margin-top: 0.66666667rem;
+}
+.job-content .job-info-show .job-warpper .job-header-image img {
+  width: 1.18666667rem;
+  height: 1.18666667rem;
+  border-radius: 50%;
+  overflow: hidden;
+  float: left;
+  margin-right: 0.29333333rem;
+}
+.job-content .job-info-show .job-warpper .job-header-image .allege .leader {
+  color: #343434;
+  font-size: 0.34666667rem;
+}
+.job-content .job-info-show .job-warpper .job-header-image .allege .today-time {
+  font-size: 0.29333333rem;
+  color: #888888;
+  background: #fdfdfd;
+  margin-left: 0.24rem;
+}
+.job-content .job-info-show .job-warpper .job-header-image .allege .state {
+  margin-top: 0.28rem;
+}
+.job-content .job-info-show .job-warpper .job-header-image .allege .state span {
+  font-size: 0.30666667rem;
+  color: #58595d;
+  padding: 0.13333333rem 0.2rem;
+  border-radius: 0.16rem;
+  background: #f4f5f9;
+  margin: 0.05333333rem;
+}
+.job-content .job-info-show .job-description {
+  margin-top: 1.24rem;
+  padding: 0 0.56rem;
+  width: 100%;
+}
+.job-content .job-info-show .job-description h2 {
+  font-size: 0.42666667rem;
+  padding-right: 0.56rem;
+  background: #ffffff;
+  font-weight: normal;
+}
+.job-content .job-info-show .job-description .des-list {
+  margin: 0.53333333rem 0;
+}
+.job-content .job-info-show .job-description .des-list span {
+  font-size: 0.30666667rem;
+  color: #58595d;
+  padding: 0.13333333rem 0.2rem;
+  border-radius: 0.16rem;
+  background: #f4f5f9;
+  margin: 0.05333333rem;
+}

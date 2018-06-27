@@ -21,6 +21,6 @@ let router = new VueRouter({
        redirect:'/'
      }
    ]
-})
+});
 
 export default router

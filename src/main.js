@@ -6,9 +6,15 @@ import App from './App'
 import '@/assets/css/index.css'
 import '@/assets/js/html.js'
 
+import MintUI from 'mint-ui'
+import 'mint-ui/lib/style.css'
+
+Vue.use(MintUI);
+
+
 import router from '@/router/index'
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
 new Vue({
@@ -16,4 +22,4 @@ new Vue({
   router,
   components: { App },
   template: '<App/>'
-})
+});
